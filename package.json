@@ -1,32 +1,21 @@
 {
   "name": "ng2-jasmine",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "armorik83",
+  "bugs": {
+    "url": "https://github.com/armorik83/ng2-jasmine/issues"
   },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/armorik83/ng2-jasmine#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/armorik83/ng2-jasmine.git"
   },
-  "author": "armorik83",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/armorik83/ng2-jasmine/issues"
-  },
-  "homepage": "https://github.com/armorik83/ng2-jasmine#readme",
-  "devDependencies": {
-    "typescript": "^1.8.10"
-  },
-  "dependencies": {
-    "@angular/common": "^2.0.0-rc.4",
-    "@angular/compiler": "^2.0.0-rc.4",
-    "@angular/core": "^2.0.0-rc.4",
-    "@angular/platform-browser": "^2.0.0-rc.4",
-    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
-    "core-js": "^2.4.0",
-    "rxjs": "^5.0.0-beta.10",
-    "zone.js": "^0.6.12"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
