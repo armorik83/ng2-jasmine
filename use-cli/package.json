@@ -1,6 +1,20 @@
 {
   "name": "use-cli",
   "version": "0.0.0",
+  "dependencies": {
+    "@angular/common": "^2.0.0-rc.4",
+    "@angular/compiler": "^2.0.0-rc.4",
+    "@angular/core": "^2.0.0-rc.4",
+    "@angular/platform-browser": "^2.0.0-rc.4",
+    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
+    "core-js": "^2.4.0",
+    "rxjs": "^5.0.0-beta.10",
+    "systemjs": "^0.19.31",
+    "zone.js": "^0.6.12"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160712"
+  },
   "keywords": [],
   "license": "MIT",
   "main": "index.js",
